@@ -17,15 +17,16 @@ Based on sales prediction, it is possible to improve stock management, based on 
 
 **Implement the model you described in question 2, preferably in Python. The code has to retrieve the data, train and test a statistical model and report relevant performance criteria. Ideally, we should be able to replicate your analysis from your submitted source-code, so please explicit the versions of the tools and packages you are using.**
 
-For packages used see [requirements.txt](requirements.txt).
-For model development and explanation see [jupyter notebook](https://github.com/melloGuilherme/data_challenge/blob/master/Sales Prediction.ipynb)
+For used packages, see [requirements.txt](requirements.txt).
+
+For model development and explanation see [jupyter notebook](https://github.com/melloGuilherme/data_challenge/blob/master/Sales_Prediction.ipynb)
 
 
 # Question 4
 
 **1. Explain each and every of your design choices, you can use jupyter notebooks. (e.g., preprocessing, model selection, hyper parameters, evaluation criteria). Compare and contrast your choices with alternative methodologies.**
 
-For model development and explanation see [jupyter notebook](https://github.com/melloGuilherme/data_challenge/blob/master/Sales Prediction.ipynb)
+For model development and explanation see [jupyter notebook](https://github.com/melloGuilherme/data_challenge/blob/master/Sales_Prediction.ipynb)
 
 **2. Describe how you would improve the model in Question 3 if you had more time.**
 
